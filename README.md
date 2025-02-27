@@ -19,7 +19,7 @@ Check out my portfolio live at: https://mypersonalfolio.netlify.app/
 - **Styling**: CSS  
 - **Hosting**: [Netlify](https://www.netlify.com/)  
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2be8fbbb-0d27-44dc-8929-aee2a132a6b0/deploy-status)](https://app.netlify.com/sites/mypersonalfolio/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0d6649ee-c4f6-48a5-9d5e-a503d5fcb675/deploy-status)](https://app.netlify.com/sites/mypersonalfolio/deploys)
 
 🤝 Connect with Me  
 🔗 [GitHub](https://github.com/Eunice-Joshi)  
